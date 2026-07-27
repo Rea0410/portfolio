@@ -12,7 +12,7 @@ const ProjectDetails = () => {
     pms: {
       title: "Personnel Management System",
       category: "Web Application",
-      image: PMS,
+  image: null,
 
       description:
         "The Personnel Management System (PMS) is a web-based application designed to streamline the management of employee information and personnel records. The system provides a centralized platform for managing employee details, positions, employment status, divisions, and office assignments.",
